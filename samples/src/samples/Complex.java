@@ -7,5 +7,8 @@ public class Complex {
 	 
 
 	}
+	public void sandra(int s) {
+		
+	}
 
 }
